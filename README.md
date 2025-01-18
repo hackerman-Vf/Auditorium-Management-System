@@ -1,0 +1,10 @@
+DESCRIPTION
+This project is a seat booking system for two auditoriums, each with 10 seats. It allows users to view the auditorium layout, select a date and time, book seats, and view booking details. The system ensures concurrency control using threading locks to prevent conflicts when multiple users attempt to book seats simultaneously. The project also stores booking details, including the user's name, phone number, email, and the date and time of booking. This system is designed to provide a seamless and efficient way to manage seat reservations in a multi-user environment.
+The proposed seat booking system for two auditoriums, each with 10 seats, addresses these challenges by implementing concurrency control using threading locks. This ensures that multiple users can book seats simultaneously without conflicts. The system allows users to view the auditorium layout, select a date and time, book seats, and view booking details. It also stores booking information, including the user's name, phone number, email, and the date and time of booking, providing a seamless and efficient way to manage seat reservations.
+SOLUTION PROPOSED
+Managing seat reservations in a multi-user environment can be challenging due to potential conflicts when multiple users attempt to book seats simultaneously. This can lead to double bookings, data inconsistencies, and a poor user experience.
+PROBLEM STATEMENT
+TECHNLLGY USED : PYTHON
+Python is a versatile and powerful programming language that is widely used for developing various types of applications, including web applications, data analysis, artificial intelligence, and more. In the context of an Audi management system, Python's capabilities can be leveraged to create a robust and efficient platform for managing various aspects of the business.
+
+For instance, Python can be used to develop web applications that allow customers to browse and purchase Audi vehicles online. These applications can include features such as vehicle search, comparison, and customization options, providing a seamless and user-friendly experience for customers.
